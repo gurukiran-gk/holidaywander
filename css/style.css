@@ -19,7 +19,7 @@
 body{
 	background: var(--bg-color);
 	color: var(--text-color);
-	margin-left: -8%;
+	
 	spacing:20px;
 	align-items: center;
 	position: center;
